@@ -2,6 +2,14 @@
 
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 
+
+
+Check out [OurEventAlbum](https://oureventalbum.com)
+
+and 
+
+[MetaKit](https://metakit.app)
+
 - Guide pages
 - Navigation
 - Customizations
